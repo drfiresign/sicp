@@ -11,7 +11,7 @@ at completing the wizard book.
 But maybe, _juuuuust maybe_, I'll actually complete this project. And then maybe
 I'll have learned something.
 
-~=~ dylan ~=~
+`~=~ dylan ~=~`
 
 ## Table of contents
 ### or: the chapters I have left to complete
